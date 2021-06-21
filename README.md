@@ -1,2 +1,2 @@
 # PedroBot
-Powerfull Telegram bot to manage your group easily 
+A powerfull Telegram bot to manage your group easily. 
